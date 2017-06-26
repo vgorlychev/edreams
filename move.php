@@ -1,6 +1,6 @@
 <?php
 
-/* This is POST request in order to do a move
+/* This is GET request in order to do a move
  * Coordinates:
  * A|B|C
  * D|E|F
